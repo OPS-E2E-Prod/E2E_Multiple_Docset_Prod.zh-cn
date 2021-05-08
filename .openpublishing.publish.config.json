@@ -45,10 +45,7 @@
   ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
-  "branches_to_filter": [
-    "live-sxs",
-    "main-sxs"
-  ],
+  "branches_to_filter": [],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
@@ -72,5 +69,6 @@
   ],
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
-  "targets": {}
+  "targets": {},
+  "git_repository_url_open_to_public_contributors": "https://github.com/OPS-E2E-Prod/E2E_Multiple_Docset_Prod"
 }
